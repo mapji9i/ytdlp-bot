@@ -1,0 +1,8 @@
+.history/
+.vscode/
+run.sh 
+deploy.sh 
+cookies.txt
+database.db 
+logs/
+
